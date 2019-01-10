@@ -1,0 +1,6 @@
+name: Acquia Stripped Query Parameters Test
+description: Creates a test block showing the header for Acquia Stripped Query Parameters.
+package: Custom
+
+type: module
+core: 8.x

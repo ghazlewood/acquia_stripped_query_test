@@ -1,5 +1,5 @@
 {
-    "name": "drupal/acquia_stripped_query_test",
+    "name": "ghazlewood/acquia_stripped_query_test",
     "description": "Acquia Stripped Query Parameters Test.",
     "type": "drupal-module"
 }
